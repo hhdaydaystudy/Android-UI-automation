@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
 #!/usr/bin/env python3
+import sys
+sys.path.append('/Users/lihu/.jenkins/workspace/appium')
+
 import unittest
 import HTMLTestRunner
 from case.case1 import MyTestCase1
