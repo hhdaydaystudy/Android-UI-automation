@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #!/usr/bin/env python3
 import sys
-sys.path.append('/Users/lihu/.jenkins/workspace/appium')
+sys.path.append('/Users/lihu/.jenkins/workspace/Android-UI-automation')
 
 import unittest
 import HTMLTestRunner
